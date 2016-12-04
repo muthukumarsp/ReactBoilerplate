@@ -1,1 +1,1 @@
-# ReactBoilerplate
+# ReactBoilerplate - boiler plate for React application
